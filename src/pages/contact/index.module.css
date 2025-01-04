@@ -51,7 +51,7 @@
 }
 
 .contact__button {
-    color: var(--text-color);
+    color: dodgerblue;
     font-size: var(--small-font-size);
     display: inline-flex;
     align-items: center;
