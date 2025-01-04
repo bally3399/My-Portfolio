@@ -9,7 +9,6 @@ const Qualification = () => {
 
             <div className={styles.qualification__container}>
                 <div className={styles.qualification__columns}>
-
                     <div className={styles.qualification__content}>
                         <h3 className={styles.column__title}>
                             <i className="uil-graduation-cap"></i> Education

@@ -16,13 +16,13 @@ const Backend = () => {
                         </div>
                     </div>
 
-                    <div className={styles.skills__data}>
-                        <i className={`bx bx-badge-check ${styles.icon}`}></i>
+                    {/*<div className={styles.skills__data}>*/}
+                    {/*    <i className={`bx bx-badge-check ${styles.icon}`}></i>*/}
 
-                        <div>
-                            <h3 className={styles.skills__name}>NodeJs</h3>
-                        </div>
-                    </div>
+                    {/*    <div>*/}
+                    {/*        <h3 className={styles.skills__name}>NodeJs</h3>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
                 </div>
 
                 <div className={styles.skills__group}>

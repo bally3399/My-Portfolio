@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./index.module.css";
-import CV from "../../assets/cv.pdf"
+import CV from "../../assets/BimsCv.pdf"
 import Info from "./info";
 
 

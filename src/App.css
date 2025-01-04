@@ -9,7 +9,7 @@
   --text-color: hsl(var(--hue), var(--sat), 46%);
   --body-color: hsl(var(--hue), var(--sat), 98%);
   --container-color: #fff;
-  --wine-color: #9b0000;
+  --wine-color: dodgerblue;
 
   --body-font: "Poppins", sans-serif;
 
@@ -100,7 +100,7 @@ img{
 .section__subtitle{
   display: block;
   margin-bottom: 1rem;
-  color: var(--wine-color);
+  color: dodgerblue;
   font-size: var(--h3-font-size);
 }
 
@@ -125,7 +125,7 @@ img{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--wine-color);
+    background-color: dodgerblue;
     color: var(--container-color);
     padding: 0.75rem 1.5rem;
     border-radius: 0.5rem;
