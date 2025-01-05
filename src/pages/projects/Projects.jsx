@@ -83,10 +83,11 @@ const Projects = () => {
         },
         {
             title: "Backend Projects (GitHub Repos)",
-            description: "Experienced in building scalable and efficient backend systems using technologies such as " +
-                "Java (Spring Boot) and Python (Django). These projects include both robust backend applications and " +
-                "data structure/algorithm implementations written in Java and JavaScript, ensuring performance, security, " +
-                "and optimal problem-solving capabilities.",
+            description: "Skilled in creating efficient backend systems" +
+                " using Java (Spring Boot) and Python (Django). These " +
+                "projects include backend applications and data structure" +
+                " solutions in Java and JavaScript, focusing on performance," +
+                " security, and solving real-world problems.",
             icon: "uil-database",
             projects: [
                 {
