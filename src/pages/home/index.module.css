@@ -43,7 +43,7 @@
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: var(--text-color);
+    background-color: dodgerblue;
     left: 0;
     top: 1rem;
 }
