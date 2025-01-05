@@ -40,7 +40,7 @@ const Navbar = () => {
                         onClick={() => setToggle(!toggle)}
                         className={styles.hamburger__button}
                     >
-                        <Hamburger toggled={toggle} toggle={setToggle} color="#ed2b27" />
+                        <Hamburger toggled={toggle} toggle={setToggle} color="dodgerblue" />
                     </button>
                 </div>
             </nav>
