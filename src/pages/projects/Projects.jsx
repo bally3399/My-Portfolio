@@ -53,33 +53,31 @@ const Projects = () => {
     const serviceData = [
         {
             title: "Frontend Projects",
-            description: "I create user-friendly, responsive web pages using modern JavaScript frameworks like React, " +
-                "as well as basic HTML and CSS. With a strong background in building dynamic web applications, I leverage " +
-                "technologies like React, TypeScript, JavaScript, Tailwind, and have extensive experience in API integration " +
-                "using Axios. My work is optimized for performance and accessibility, ensuring seamless experiences across " +
-                "mobile devices.",
+            description: "",
             icon: "uil-browser",
             projects: [
                 {
-                    projectName: "Dee Logistics System Website",
-                    githubLink: "https://deelogistics-dee-dayos-projects.vercel.app/"
+                    projectName: "Movie app",
+                    githubLink: "https://github.com/bally3399/movieApp.git"
                 },
                 {
                     projectName: "Nexcent Landing page",
-                    githubLink: "https://nexcent-pied.vercel.app/"
+                    githubLink: "https://react1-k77c-git-main-bim-bims-projects.vercel.app/"
                 }
             ]
         },
         {
             title: "Live Fullstack Projects (Deployed)",
-            description: "Built scalable and efficient fullstack systems using Java Spring Boot for the backend and " +
-                "databases like PostgreSQL or MySQL. These projects follow TDD (Test-Driven Development) principles, " +
-                "utilize GitHub Actions for CI/CD, and are deployed on platforms such as Render or AWS for the backend. ",
+            description: "Built a cutting-edge application designed to bridge " +
+                "the gap between construction services and client satisfaction. " +
+                "It leverages innovative technologies to streamline interactions, " +
+                "enhance efficiency, and ensure a seamless experience for both service" +
+                " providers and clients.",
             icon: "uil-layers",
             projects: [
                 {
                     projectName: "Quagga",
-                    githubLink: "https://eazi-rent-eight.vercel.app/"
+                    githubLink: "https://quagga-inky.vercel.app/"
                 }
             ]
         },
@@ -92,25 +90,31 @@ const Projects = () => {
             icon: "uil-database",
             projects: [
                 {
+                    projectName: "Event Booking App (Springboot)",
+                    githubLink: "https://github.com/bally3399/EventBookingApp.git"
+                },
+                {
                     projectName: "Election Management System (Springboot)",
-                    githubLink: "https://github.com/Dee-Dayo/Election-Management-System"
+                    githubLink: "https://github.com/bally3399/ElectionManagementSystem.git"
                 },
                 {
-                    projectName: "Auction System (Django)",
-                    githubLink: "https://github.com/Dee-Dayo/Django-Auction-System"
+                    projectName: "Todo List (Springboot)",
+                    githubLink: "https://github.com/bally3399/Todo-App.git"
                 },
                 {
-                    projectName: "Data Structures & Algorithms (Java)",
-                    githubLink: "https://github.com/Dee-Dayo/Semicolon-Drills"
-                },
-                {
-                    projectName: "Data Structures & Algorithms (Python)",
-                    githubLink: "https://github.com/Dee-Dayo/Semicolon-Python-Drills"
+                    projectName: "Application Development Using Object-Oriented Programming (OOP) (Pyhton)",
+                    githubLink: "https://github.com/bally3399/Python.git"
                 },
                 {
                     projectName: "Data Structures & Algorithms (JavaScript)",
-                    githubLink: "https://github.com/Dee-Dayo/Javascript-Semicolon"
+                    githubLink: "https://github.com/bally3399/javaScript.git"
+
                 },
+                {
+                    projectName: "Data Structures & Algorithms (Java)",
+                    githubLink: "https://github.com/bally3399/Task2.git"
+                },
+
             ]
         }
     ];
