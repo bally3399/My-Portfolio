@@ -63,6 +63,10 @@ const Projects = () => {
                 {
                     projectName: "Nexcent Landing page",
                     githubLink: "https://react1-k77c-git-main-bim-bims-projects.vercel.app/"
+                },
+                {
+                    projectName: "Fortunae Portfolio",
+                    githubLink: "https://fortunae-portfolio.vercel.app/"
                 }
             ]
         },
@@ -148,6 +152,10 @@ const Projects = () => {
                     projectName: "Data Structures & Algorithms (Java)",
                     githubLink: "https://github.com/bally3399/Task2.git"
                 },
+                {
+                    projectName: "Hotel Management Booking",
+                    githubLink: "https://github.com/bally3399/Hotel-booking-backend.git"
+                }
 
             ]
         }
