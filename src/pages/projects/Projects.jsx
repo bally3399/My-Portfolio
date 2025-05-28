@@ -67,7 +67,7 @@ const Projects = () => {
             ]
         },
         {
-            title: "Live Fullstack Projects (Deployed)",
+            title: "Live Fullstack Project (Deployed)",
             description: "Built a cutting-edge application designed to bridge " +
                 "the gap between construction services and client satisfaction. " +
                 "It leverages innovative technologies to streamline interactions, " +
@@ -78,6 +78,39 @@ const Projects = () => {
                 {
                     projectName: "Quagga",
                     githubLink: "https://quagga-inky.vercel.app/"
+                }
+            ]
+        },
+        {
+            title: "Live Fullstack Project (Deployed)",
+            description: 'The Hotel Management System is a full-stack application' +
+                ' built with Java Spring Boot for the backend and React for the ' +
+                'frontend. It streamlines hotel operations by enabling room browsing,' +
+                ' booking management, and guest tracking. Spring Boot powers RESTful APIs' +
+                'and integrates with MySQL via Spring Data JPA, while React delivers a ' +
+                'responsive UI with dynamic room listings and booking pages',
+            icon: "uil-layers",
+            projects: [
+                {
+                    projectName: "Hotel Management Booking",
+                    githubLink: "https://hotel-booking-two-sage.vercel.app/"
+                }
+            ]
+        },
+        {
+            title: "Live Fullstack Project (Deployed)",
+            description: 'The Admin Dashboard is a full-stack web application' +
+                ' developed to demonstrate a team’s expertise in building modern, ' +
+                'scalable software solutions. Designed for a Software-as-a-Service platform,' +
+                ' the project features a responsive frontend built with React.js and styled ' +
+                'using Material UI and Tailwind CSS, alongside a robust backend built with java (Spring boot)' +
+                ' and MongoDB. Key functionalities include JWT-based user authentication with' +
+                ' role-based access control',
+            icon: "uil-layers",
+            projects: [
+                {
+                    projectName: "Admin Dashboard",
+                    githubLink: "https://admin-dashboard-beige-xi-12.vercel.app/"
                 }
             ]
         },
